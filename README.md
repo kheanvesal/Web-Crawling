@@ -4,7 +4,7 @@ A minimal, real-time web search CLI that searches the internet for you. Enter a 
 
 <img width="2012" height="1390" alt="image" src="https://github.com/user-attachments/assets/ea19d81c-df6a-467c-8e94-4a778c841aa4" />
 
-Setup
+# Setup
 
 Prerequisites: Python 3.12+ and uv installation
 
@@ -18,7 +18,7 @@ cd chapter-3-small-project
 
 # How to Run
 
-# From the repo root, run:
+From the repo root, run:
 First type command => pip install uv, uv sync, then uv run chapter3-small-project
 
 When prompted, enter your search (e.g., "Apple latest earnings").
