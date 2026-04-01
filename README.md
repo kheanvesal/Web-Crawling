@@ -15,16 +15,17 @@ git clone https://github.com
 # Navigate into the project root:
 
 cd chapter-3-small-project
-How to Run
+
+# How to Run
 
 # From the repo root, run:
-First type command => uv sync, then uv run chapter3-small-project
+First type command => pip install uv, uv sync, then uv run chapter3-small-project
 
 When prompted, enter your search (e.g., "Apple latest earnings").
 Results print as JSON. Enter another query to continue.
 Quit with q, quit, exit, or press Ctrl+C.
-Features
 
+# Features
 
 We currently have two features:
 
